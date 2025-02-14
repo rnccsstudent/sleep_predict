@@ -1,0 +1,4 @@
+streamlit
+numpy
+scikit-learn
+pickle5  # (if using Python <3.8, otherwise remove)
